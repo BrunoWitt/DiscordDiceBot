@@ -41,10 +41,3 @@ Supports rolling dice expressions, multiple rolls, and managing turn order with 
 - Internet connection for Discord API access
 
 ---
-
-## Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/odio-initiative-bot.git
-   cd odio-initiative-bot
